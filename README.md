@@ -1,4 +1,4 @@
-# imgSource
+# OpenCV----YOLOv3目标检测推理
 this is image soure folder
 题目要求：了解opencv的DNN库，给定一张自然场景图片，使用训练好的yolov3模型，进行目标检测结果输出。
 
