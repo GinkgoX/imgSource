@@ -5,7 +5,9 @@ this is image soure folder
 
 
  > 分析：
+ > 
  > 1）opencv的DNN模块集成了很多深度学习模型，包括人脸检测、图像分类、分割、目标检测等，集成了Pytorch、tensorflow、paddlepaddle等模型框架（参看代码库[OpenCV/dnn](https://github.com/opencv/opencv/tree/master/samples/dnn)）
+ > 
  > 2）深度学习推理模型一般步骤：加载模型，包括配置文件和权重文件；输入图像预处理，转换成模型可接受的文件类型和尺寸；模型预测后处理，对于目标检测，主要是NMS后处理方法；
 
  - 结果展示：
